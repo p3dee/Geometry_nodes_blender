@@ -54,7 +54,19 @@ https://user-images.githubusercontent.com/109789577/236150006-da8bfb48-278c-42c5
 ## *our company name maked in blender using nexonText 
 
 ## Screenshot
-<img src='https://github.com/p3dee/Geometry_nodes_blender/blob/main/neonText/company2.png?raw=true' width='40%'>
+<img src='https://github.com/p3dee/Geometry_nodes_blender/blob/main/neonText/company2.png?raw=true' width='50%'>
+
+##   mushroom maked in blender 
+
+## Screenshot
+<img src='https://github.com/p3dee/Geometry_nodes_blender/blob/main/mushroom/mushroom.png?raw=true' width='50%'>
+
+ 
+
+
+
+
+
 
  
 
