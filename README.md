@@ -51,18 +51,18 @@ https://user-images.githubusercontent.com/109789577/236145714-bb9e86b9-954b-4d0c
 ## OutPut
 https://user-images.githubusercontent.com/109789577/236150006-da8bfb48-278c-42c5-9690-dc99cb219b9e.mp4
 
-## *our company name maked in blender using nexonText 
+## *our company name made in blender using nexonText 
 
 ## Screenshot
 <img src='https://github.com/p3dee/Geometry_nodes_blender/blob/main/neonText/company2.png?raw=true' width='50%'>
 
-##   mushroom maked in blender 
+##   mushroom made in blender 
 
 ## Screenshot
 <img src='https://github.com/p3dee/Geometry_nodes_blender/blob/main/mushroom/mushroom.png?raw=true' width='50%'>
 
 
-##  * Square animation maked in blender 
+##  * Square animation made in blender 
 
 ## Screenshot
 <img src='https://github.com/p3dee/Geometry_nodes_blender/blob/main/square/render.png?raw=true' width='50%'>
